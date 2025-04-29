@@ -8,8 +8,4 @@ Dlex is a website offering mobile apps and design systems for startups. It is fo
 - **CSS (Tailwind CSS)**
 - **Font Awesome (for icons)**
 
-## Installation and Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Marialonco/Dlex.git
